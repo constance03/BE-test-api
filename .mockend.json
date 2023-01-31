@@ -1,0 +1,10 @@
+{
+  "User": {
+    "name": { "string": {}},
+    "tax": { "int": { "min": 10, "max": 200 }}
+  },
+  "Product": {
+    "name": { "loremWords": { "minLength": 5, "maxLength": 150 }},
+    "price": {"int": { "min": 10, "max": 15000 } }
+  }
+}
