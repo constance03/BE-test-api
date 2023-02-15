@@ -38,6 +38,5 @@ $ npm run dev
 4. [Postman](https://www.postman.com/)
 
 ## **Pessoas autoras**
-<img style="width:200px" src="./src/assets/photo.png" alt="imagem de desenvolvedora">
-
+Projeto desenvolvido por Maria Constance.
 [Linkedin](https://www.linkedin.com/in/mariaconstance/)
